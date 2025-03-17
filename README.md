@@ -1,0 +1,1 @@
+Phase-field method for 3D narrow volume reconstruction of a C-3PO. The governing equation is an Allen-Cahn-type phase-field model, the Lagrange multiplier approach is used to design second-order energy-stable scheme. The computational code is written by C. The posttreatment is implemented by Matlab.
